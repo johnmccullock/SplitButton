@@ -5,4 +5,4 @@ SplitButton.java is based on a javax.swing.JButton, and SplitToggleButton is bas
 
 I found a use for this on a vertical javax.swing.JToolBar where the button left sides activated general functions, and the right side popup menus activated more specific tasks related to the general functions.
 
-
+Unlike my other hybrid components, I decided to use Java's standard Event/Listener classes for handling events.
